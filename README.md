@@ -1,2 +1,2 @@
 # machine_learning
- Machine Learning and Applications
+ Statistical and Probabilistic Machine Learning Algorithms
